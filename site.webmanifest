@@ -1,0 +1,22 @@
+{
+  "name": "LiteAI Lab",
+  "short_name": "LiteAI Lab",
+  "description": "AI Tools & Tutorials - Learn about local AI models, development tools, and cutting-edge technology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
