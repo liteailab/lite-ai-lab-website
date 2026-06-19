@@ -2,6 +2,8 @@
 
 A modern, fully static website for the LiteAI Lab YouTube channel. Built with vanilla HTML, CSS, and JavaScript - no build process required!
 
+> 🎬 **Watch the build process:** [How this website was built](https://www.youtube.com/watch?v=XArwkWQ830I)
+
 ## 🚀 Quick Start
 
 1. Extract the ZIP archive
